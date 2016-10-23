@@ -1,6 +1,6 @@
 # 纳博科夫的卡片
 
-之前在公众号已经通读完《工作谈》，感受非常深刻。这次在精读《工作谈》之前，我需要先好好学习如何写读书卡片：「[读书卡片撰写指南 | 开智部落](https://github.com/OpenMindClub/OpenMindWorld/wiki/HbCard)」，以及理解卡片背后的原理：「[纳博科夫的卡片](http://www.yangzhiping.com/psy/nabokov.html)」，希望能在后面的精度体验中带来更深的感受。
+之前在公众号已经通读完《工作谈》，感受非常深刻。这次在精读《工作谈》之前，我需要先好好学习如何写读书卡片：「[读书卡片撰写指南 | 开智部落](https://github.com/OpenMindClub/OpenMindWorld/wiki/HbCard)」，以及理解卡片背后的原理：「[纳博科夫的卡片](http://www.yangzhiping.com/psy/nabokov.html)」，希望能在后面的精读体验中带来更深的感受。
 
 ---
 
