@@ -3,8 +3,8 @@
 第一部分~第三部分
 
 
-## 写在前面
 
+## 写在前面
 
 由于这周工作非常忙，提交卡片晚了，太愧疚。但一定要坚持输出，只有输出之后，才能对知识真正内化理解。由于前两周的书较难，这周读《发明家诞生了》这本就感觉书变容易了，其实这是因为我们的阅读理解能力提高了。好比我在查阅论文的时候，看了一遍论文，再回来看维基百科，都是英文阅读，可竟然阅读速度提升了2-3倍。而这也不光是速度的提升，还是先难后易让我们的理解能力提升。
 
@@ -71,7 +71,7 @@ STC算子（Size，Time，Cost）
 5. 「在物质中加入磁粉，并用磁场控制」；
 6. 「物--场分析」；
 
-第三部分是：
+
 
 ---
 
@@ -81,7 +81,7 @@ STC算子（Size，Time，Cost）
 2. 问题和答案像一条河的两岸，从要解决的问题中分析出矛盾，从分析矛盾中找出解决的方法。
 
 
-## 行动卡
+## 任意卡
 
 「知识杂乱无章地存在我们的脑子里，是没有秩序的。」看了这些发明家的问题和解决方法，想到我们从初中开始都学过这些基本理论，可为什么无法将知识联系起来？
 
@@ -89,7 +89,6 @@ STC算子（Size，Time，Cost）
 
 下午读了柳白猿同学写的两篇文章，觉得他的知识内化方式，以及认真查找论文的态度真的值得自己好好学习。进一步思考如何将知识内化，并生成自己的知识体系呢。
 
-好好消化知识，多读多写多积累，建立自己的知识管理体系~
 
 1. [对知识体系的探索（团队篇）v1.0_Beta](http://mp.weixin.qq.com/s?src=3&timestamp=1479794582&ver=1&signature=skf2YcU2DFlPy5ELEizIhbVYYL9pmpdrCv2hzqjyuXzbz5HZlvd0SpoG8ukAzTBE3lbQA4j95t69W1TWngP81xIrTLkyzA-6bBN6N5yBe48Lho4aovk9bBL*hahZFZzbLQ5iEyOVo6pSfPfzXN1id3tAf4Uii9jax2BmExDIuNM=)
 2. [【笔记】如何阅读一本难啃的书&进化树（第1~2章）](http://mp.weixin.qq.com/s?src=3&timestamp=1479794582&ver=1&signature=skf2YcU2DFlPy5ELEizIhbVYYL9pmpdrCv2hzqjyuXwtJ*a*qOS3EE*vLPI8zXixqzhdYqzYf1lD7ROtncp9hmvppSes75zo6BBYAqODo5IMuyhAi5CFer5bsNoeBJqmeZLdTfE2bAvL8VSeJRm6ZCbxCIs-MzvQ*4UevI08uWA=)
