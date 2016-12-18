@@ -1,3 +1,4 @@
+
 # README
 
 读书卡片命名方式：c类型-名称-创建日期；
@@ -11,4 +12,3 @@
 - 行动卡（Actions）：cA
 - 金句卡（Referenced）：cR
 - 任意卡（Others）：cO
-
