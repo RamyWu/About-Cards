@@ -12,3 +12,4 @@
 - 行动卡（Actions）：cA
 - 金句卡（Referenced）：cR
 - 任意卡（Others）：cO
+- 书评（BookReview）：cB
